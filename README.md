@@ -1,7 +1,7 @@
 
-## micro-instagram
+# micro-instagram
 
-# Clone the repo 
+## Clone the repo 
 ```bash
 git clone https://github.com/tantiarjun/micro-instagram.git
 ```
@@ -9,13 +9,13 @@ git clone https://github.com/tantiarjun/micro-instagram.git
 cd micro-instagram
 ```
 
-# Install all the depedencies
+## Install all the depedencies
 
 ```bash
 npm install
 ```
 
-# To start the micro-instagram server, run the following
+## To start the micro-instagram server, run the following
 ```bash
 npm  start
 ```
