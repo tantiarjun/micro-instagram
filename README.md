@@ -1,18 +1,21 @@
 
-# Clone the repo and install the dependencies.
+## micro-instagram
 
+# Clone the repo 
 ```bash
 git clone https://github.com/tantiarjun/micro-instagram.git
 ```
 ```bash
 cd micro-instagram
 ```
-# Installation
+
+# Install all the depedencies
+
 ```bash
 npm install
 ```
 
-# To start the express server, run the following
+# To start the micro-instagram server, run the following
 ```bash
 npm  start
 ```
